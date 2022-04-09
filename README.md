@@ -22,9 +22,9 @@ App: https://mysterious-bayou-78540.herokuapp.com/auction/623e39dab0e0b88c848b98
 ### Installation
 
 ```
-- $ git clone git@github.com:AsmaaMusse/private-live-auction-server.git
-- $ cd private-live-auction-server
-- $ npm install
+$ git clone git@github.com:AsmaaMusse/private-live-auction-server.git
+$ cd private-live-auction-server
+$ npm install
 ```
 
 ### Start Application
@@ -44,13 +44,15 @@ npm start (client)
 
 ## Technologies Used
 
-#### Back-end
+#### BackEnd
+
 - Node.js
 - Express.js
 - MySql
 - MongoDB
 
-#### Front-end
+#### FrontEnd
+
 - HTML
 - CSS
 - JavaScript
@@ -60,17 +62,17 @@ npm start (client)
 
 ## Screenshots
 
-- Signup
-  <img src="./src/assets/Signup.jpg"/>
-  
-- Login
-  <img src="./src/assets/Login.jpg"/>
+- Signup Form
+  ![signUp form](./src/assets/Signup.jpg)
+
+- Login Form
+  ![login form](./src/assets/Login.jpg)
 
 - Homepage
-  <img src="./src/assets/Homepage.jpg"/>
+  ![homepage](./src/assets/Homepage.jpg)
 
-- Upcoming auctions
-  <img src="./src/assets/Upcoming auctions.jpg"/>
+- Upcoming Auctions
+  ![upcoming auction](./src/assets/Upcoming%20auctions.jpg)
 
 ## Contribute
 
